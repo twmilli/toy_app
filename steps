@@ -1,0 +1,3 @@
+1. The browser issues a request for the /users/1/edit URL.
+2. Rails routes the /users/1/edit to the edit route in the users controller.
+3. The controller pulls data from the user model and then displays it 
